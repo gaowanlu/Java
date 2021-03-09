@@ -5,6 +5,7 @@ public class DefinitionOfAString {
         /*
         字符串不是基本数据类型
         像C++类似，字符串是一个class 字符串实体就是 String Object
+        Java 字符串时引用类型变量
         */
 
         //定义一个字符串

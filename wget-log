@@ -1,0 +1,8 @@
+--2021-03-09 14:03:02--  https://storage.googleapis.com/downloads-cdn.mariadb.com/java8_connector/2.7/2.7.2/connector-java-2.7.2/mariadb-java-client-2.7.2.jar?GoogleAccessId=downloads-sync%40downloads-234321.iam.gserviceaccount.com
+正在解析主机 storage.googleapis.com (storage.googleapis.com)... 172.217.161.176, 216.58.220.208, 216.58.197.112, ...
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.161.176|:443... 失败：连接超时。
+正在连接 storage.googleapis.com (storage.googleapis.com)|216.58.220.208|:443... 失败：连接超时。
+正在连接 storage.googleapis.com (storage.googleapis.com)|216.58.197.112|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 403 Forbidden
+2021-03-09 14:07:28 错误 403：Forbidden。
+

@@ -1,6 +1,8 @@
-import 字符串的盛宴.ComparisonOfStrings;
+import 对象.*;
 public class Main{
     public static void main(String[]args){
-      ComparisonOfStrings.main();
+        ClassMethod obj=new ClassMethod();
+        obj.age=19;
+        System.out.println(obj.age);
     }
 }
