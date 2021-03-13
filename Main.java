@@ -1,8 +1,6 @@
-import 对象.*;
+import 数组.*;
 public class Main{
     public static void main(String[]args){
-        ClassMethod obj=new ClassMethod();
-        obj.age=19;
-        System.out.println(obj.age);
+        array.main();
     }
 }
